@@ -22,7 +22,7 @@ void setup()
     lcd.setCursor(0,0);
     delay(100);
     lcd.clear();
-    lcd.print("Welcome!");
+    lcd.print("Awesome!");
     delay(1000);
    
  
